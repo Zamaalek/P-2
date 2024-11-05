@@ -66,7 +66,7 @@
             radioButton4.TabStop = true;
             radioButton4.Text = "Agnieszka";
             radioButton4.UseVisualStyleBackColor = true;
-            radioButton4.CheckedChanged += RadioButton_imie_CheckedChanged;
+            radioButton4.CheckedChanged += RadioButtonImieCheckedChanged;
             // 
             // radioButton3
             // 
@@ -80,7 +80,7 @@
             radioButton3.TabStop = true;
             radioButton3.Text = "Karolina";
             radioButton3.UseVisualStyleBackColor = true;
-            radioButton3.CheckedChanged += RadioButton_imie_CheckedChanged;
+            radioButton3.CheckedChanged += RadioButtonImieCheckedChanged;
             // 
             // radioButton2
             // 
@@ -93,7 +93,7 @@
             radioButton2.TabStop = true;
             radioButton2.Text = "Magda";
             radioButton2.UseVisualStyleBackColor = true;
-            radioButton2.CheckedChanged += RadioButton_imie_CheckedChanged;
+            radioButton2.CheckedChanged += RadioButtonImieCheckedChanged;
             // 
             // radioButton1
             // 
@@ -107,7 +107,7 @@
             radioButton1.TabStop = true;
             radioButton1.Text = "Iwona";
             radioButton1.UseVisualStyleBackColor = true;
-            radioButton1.CheckedChanged += RadioButton_imie_CheckedChanged;
+            radioButton1.CheckedChanged += RadioButtonImieCheckedChanged;
             // 
             // label_komunikat
             // 

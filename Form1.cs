@@ -10,7 +10,7 @@ namespace P_2
             InitializeComponent();
         }
 
-        private void RadioButton_imie_CheckedChanged(object sender, EventArgs e)
+        private void RadioButtonImieCheckedChanged(object sender, EventArgs e)
         {
             var rb = (RadioButton)sender;
             var imie = rb.Text;
