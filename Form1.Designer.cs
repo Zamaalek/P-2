@@ -142,7 +142,7 @@
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "Form1";
-            Text = "P-2";
+            Text = "Cześć, dziewczyny!";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox).EndInit();
